@@ -49,7 +49,7 @@
                          </base-DElement>
                          <object>{5a25c41d-f35a-405e-9f61-c29ed3df8db1}</object>
                          <name>idTarget</name>
-                         <pos>x:440;y:120</pos>
+                         <pos>x:450;y:120</pos>
                          <rect>x:-40;y:-30;w:80;h:60</rect>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -246,7 +246,7 @@
                     </item>
                    </qlist>
                   </elements>
-                  <last-modified>1662306695830</last-modified>
+                  <last-modified>1662313973303</last-modified>
                   <toolbarid>General</toolbarid>
                  </MDiagram>
                 </base-MDiagram>
