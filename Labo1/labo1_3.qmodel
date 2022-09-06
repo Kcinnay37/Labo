@@ -114,31 +114,9 @@
                           </DElement>
                          </base-DElement>
                          <object>{adc9499d-77e1-497f-901b-a3b5a761c08f}</object>
-                         <name>Ingredient</name>
+                         <name>Ingredient et Equipement</name>
                          <pos>x:490;y:-610</pos>
-                         <rect>x:-45;y:-20;w:90;h:40</rect>
-                         <visual-role>0</visual-role>
-                        </DObject>
-                       </base-DObject>
-                       <variety>instance</variety>
-                       <shape-editable>false</shape-editable>
-                      </DItem>
-                     </instance>
-                    </item>
-                    <item>
-                     <instance type="DItem">
-                      <DItem>
-                       <base-DObject>
-                        <DObject>
-                         <base-DElement>
-                          <DElement>
-                           <uid>{1b5f5365-de28-4fb5-8dbf-d3beb87d4517}</uid>
-                          </DElement>
-                         </base-DElement>
-                         <object>{573baf40-39bb-4c12-a28f-5429650cf975}</object>
-                         <name>Equipement</name>
-                         <pos>x:685;y:-610</pos>
-                         <rect>x:-45;y:-20;w:90;h:40</rect>
+                         <rect>x:-75;y:-20;w:150;h:40</rect>
                          <visual-role>0</visual-role>
                         </DObject>
                        </base-DObject>
@@ -274,8 +252,8 @@
                           </DElement>
                          </base-DElement>
                          <object>{28ed64cb-fa79-47de-8c7a-056fa602f443}</object>
-                         <pos>x:445;y:-285</pos>
-                         <rect>x:-360;y:-35;w:720;h:70</rect>
+                         <pos>x:300;y:-285</pos>
+                         <rect>x:-215;y:-35;w:430;h:70</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -311,8 +289,8 @@
                           </DElement>
                          </base-DElement>
                          <object>{f3dbdf92-cbcf-4f35-a4f0-762f7dd9854e}</object>
-                         <pos>x:445;y:-220</pos>
-                         <rect>x:-360;y:-30;w:720;h:60</rect>
+                         <pos>x:300;y:-220</pos>
+                         <rect>x:-215;y:-30;w:430;h:60</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -1017,8 +995,8 @@
                           </DElement>
                          </base-DElement>
                          <object>{bb483213-52db-4faa-a6ca-b6793dddfe77}</object>
-                         <pos>x:440;y:185</pos>
-                         <rect>x:-365;y:-60;w:730;h:120</rect>
+                         <pos>x:295;y:185</pos>
+                         <rect>x:-220;y:-60;w:440;h:120</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -1145,7 +1123,7 @@ au four</text>
                           </DElement>
                          </base-DElement>
                          <object>{e0e4d0e7-b37a-4729-b4ac-0e9414f8cd99}</object>
-                         <pos>x:685;y:160</pos>
+                         <pos>x:485;y:160</pos>
                          <rect>x:-5;y:-30;w:10;h:60</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
@@ -1192,7 +1170,7 @@ au four</text>
                           </DElement>
                          </base-DElement>
                          <object>{f8a3648d-3df2-4d37-a47e-c16ef3f0425b}</object>
-                         <pos>x:685;y:220</pos>
+                         <pos>x:485;y:220</pos>
                          <rect>x:-5;y:-30;w:10;h:60</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
@@ -1537,8 +1515,8 @@ au four</text>
                           </DElement>
                          </base-DElement>
                          <object>{e06c3fc4-f0b1-4eb2-9e46-3cbd1bcccb48}</object>
-                         <pos>x:445;y:415</pos>
-                         <rect>x:-365;y:-55;w:730;h:110</rect>
+                         <pos>x:300;y:415</pos>
+                         <rect>x:-220;y:-55;w:440;h:110</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -1712,8 +1690,8 @@ a ajouter</text>
                           </DElement>
                          </base-DElement>
                          <object>{d9371521-dd0c-4f98-be13-d7907e03fe10}</object>
-                         <pos>x:445;y:625</pos>
-                         <rect>x:-370;y:-55;w:740;h:110</rect>
+                         <pos>x:300;y:625</pos>
+                         <rect>x:-225;y:-55;w:450;h:110</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -2025,8 +2003,8 @@ a ajouter</text>
                           </DElement>
                          </base-DElement>
                          <object>{c447b29c-93a2-4092-9248-45ea516230b5}</object>
-                         <pos>x:450;y:820</pos>
-                         <rect>x:-375;y:-45;w:750;h:90</rect>
+                         <pos>x:300;y:820</pos>
+                         <rect>x:-225;y:-45;w:450;h:90</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -2291,7 +2269,7 @@ des accompagnement</text>
                           </DElement>
                          </base-DElement>
                          <object>{20b16427-702b-4129-8e70-24e31963e12d}</object>
-                         <pos>x:685;y:935</pos>
+                         <pos>x:315;y:935</pos>
                          <rect>x:-5;y:-20;w:10;h:40</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
@@ -2338,8 +2316,8 @@ des accompagnement</text>
                           </DElement>
                          </base-DElement>
                          <object>{f50470c5-199b-4b72-9977-407b750bd311}</object>
-                         <pos>x:450;y:980</pos>
-                         <rect>x:-375;y:-25;w:750;h:50</rect>
+                         <pos>x:295;y:980</pos>
+                         <rect>x:-220;y:-25;w:440;h:50</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -2375,8 +2353,8 @@ passé</text>
                           </DElement>
                          </base-DElement>
                          <object>{d79ab930-58bb-493f-b240-5f2c23b79ff6}</object>
-                         <pos>x:450;y:1050</pos>
-                         <rect>x:-375;y:-45;w:750;h:90</rect>
+                         <pos>x:295;y:1050</pos>
+                         <rect>x:-220;y:-45;w:440;h:90</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -2434,7 +2412,7 @@ passé</text>
                           </DElement>
                          </base-DElement>
                          <object>{54a5da24-32af-42b7-ab90-71a7986f3410}</object>
-                         <pos>x:685;y:980</pos>
+                         <pos>x:485;y:980</pos>
                          <rect>x:-5;y:-20;w:10;h:40</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
@@ -2481,7 +2459,7 @@ passé</text>
                           </DElement>
                          </base-DElement>
                          <object>{11653c69-b038-47da-ab2d-84da95bf8202}</object>
-                         <pos>x:685;y:1025</pos>
+                         <pos>x:485;y:1020</pos>
                          <rect>x:-5;y:-20;w:10;h:40</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
@@ -2757,8 +2735,8 @@ passé</text>
                           </DElement>
                          </base-DElement>
                          <object>{56920035-9258-41de-a18a-b5c02b4ab98f}</object>
-                         <pos>x:445;y:1230</pos>
-                         <rect>x:-390;y:-30;w:780;h:60</rect>
+                         <pos>x:285;y:1230</pos>
+                         <rect>x:-230;y:-30;w:460;h:60</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -2794,8 +2772,8 @@ apporter</text>
                           </DElement>
                          </base-DElement>
                          <object>{4ceb395d-2eb0-4128-bb5a-1384ca6583e2}</object>
-                         <pos>x:445;y:1295</pos>
-                         <rect>x:-390;y:-35;w:780;h:70</rect>
+                         <pos>x:285;y:1300</pos>
+                         <rect>x:-230;y:-40;w:460;h:80</rect>
                          <auto-sized>false</auto-sized>
                          <visual-role>0</visual-role>
                         </DObject>
@@ -3022,27 +3000,6 @@ apporter</text>
                      </instance>
                     </item>
                     <item>
-                     <instance type="DItem">
-                      <DItem>
-                       <base-DObject>
-                        <DObject>
-                         <base-DElement>
-                          <DElement>
-                           <uid>{e9c64cfd-46f4-437a-b342-908a570f0ddc}</uid>
-                          </DElement>
-                         </base-DElement>
-                         <object>{55f4bd5f-43eb-4468-a969-eb902de18881}</object>
-                         <pos>x:685;y:1350</pos>
-                         <rect>x:-5;y:-5;w:10;h:10</rect>
-                         <visual-role>0</visual-role>
-                        </DObject>
-                       </base-DObject>
-                       <variety>endlifeline</variety>
-                       <shape-editable>false</shape-editable>
-                      </DItem>
-                     </instance>
-                    </item>
-                    <item>
                      <instance type="DDependency">
                       <DDependency>
                        <base-DRelation>
@@ -3109,21 +3066,44 @@ apporter</text>
                      </instance>
                     </item>
                     <item>
+                     <instance type="DItem">
+                      <DItem>
+                       <base-DObject>
+                        <DObject>
+                         <base-DElement>
+                          <DElement>
+                           <uid>{c54fb56f-c78a-4e44-ab02-7804ce9b58d5}</uid>
+                          </DElement>
+                         </base-DElement>
+                         <object>{6583c9f6-a3f6-4156-ba28-a3bea48c39b6}</object>
+                         <pos>x:485;y:930</pos>
+                         <rect>x:-5;y:-25;w:10;h:50</rect>
+                         <auto-sized>false</auto-sized>
+                         <visual-role>0</visual-role>
+                        </DObject>
+                       </base-DObject>
+                       <variety>activation</variety>
+                       <shape-editable>false</shape-editable>
+                      </DItem>
+                     </instance>
+                    </item>
+                    <item>
                      <instance type="DConnection">
                       <DConnection>
                        <base-DRelation>
                         <DRelation>
                          <base-DElement>
                           <DElement>
-                           <uid>{6d357d9a-ae76-40d7-b813-08fcafddfde8}</uid>
+                           <uid>{3339da32-4ff0-4063-9f96-20fe5b399c0a}</uid>
                           </DElement>
                          </base-DElement>
-                         <object>{f347045c-4bf7-451e-87e4-43f5d3def5e2}</object>
-                         <a>{1b5f5365-de28-4fb5-8dbf-d3beb87d4517}</a>
-                         <b>{e9c64cfd-46f4-437a-b342-908a570f0ddc}</b>
+                         <object>{c8a8adde-adbe-499f-8671-423ad2956654}</object>
+                         <a>{0f6776a1-57a8-494d-93a5-cbd35c0ebeaa}</a>
+                         <b>{c54fb56f-c78a-4e44-ab02-7804ce9b58d5}</b>
+                         <name>Fais payer le client</name>
                         </DRelation>
                        </base-DRelation>
-                       <custom-relation>Lifeline</custom-relation>
+                       <custom-relation>Message</custom-relation>
                        <a>
                         <DConnectionEnd>
                          <navigable>true</navigable>
@@ -3134,7 +3114,7 @@ apporter</text>
                     </item>
                    </qlist>
                   </elements>
-                  <last-modified>1662312893673</last-modified>
+                  <last-modified>1662482731565</last-modified>
                   <toolbarid>Sequences</toolbarid>
                  </MDiagram>
                 </base-MDiagram>
@@ -5854,7 +5834,7 @@ apporter</text>
                     <uid>{adc9499d-77e1-497f-901b-a3b5a761c08f}</uid>
                    </MElement>
                   </base-MElement>
-                  <name>Ingredient</name>
+                  <name>Ingredient et Equipement</name>
                   <relations>
                    <handles>
                     <handles>
@@ -8855,6 +8835,43 @@ apporter</text>
                     <uid>{20b16427-702b-4129-8e70-24e31963e12d}</uid>
                    </MElement>
                   </base-MElement>
+                  <relations>
+                   <handles>
+                    <handles>
+                     <qlist>
+                      <item>
+                       <handle>
+                        <uid>{c8a8adde-adbe-499f-8671-423ad2956654}</uid>
+                        <target>
+                         <instance type="MConnection">
+                          <MConnection>
+                           <base-MRelation>
+                            <MRelation>
+                             <base-MElement>
+                              <MElement>
+                               <uid>{c8a8adde-adbe-499f-8671-423ad2956654}</uid>
+                              </MElement>
+                             </base-MElement>
+                             <name>Fais payer le client</name>
+                             <a>{20b16427-702b-4129-8e70-24e31963e12d}</a>
+                             <b>{6583c9f6-a3f6-4156-ba28-a3bea48c39b6}</b>
+                            </MRelation>
+                           </base-MRelation>
+                           <custom-relation>Message</custom-relation>
+                           <a>
+                            <MConnectionEnd>
+                             <navigable>true</navigable>
+                            </MConnectionEnd>
+                           </a>
+                          </MConnection>
+                         </instance>
+                        </target>
+                       </handle>
+                      </item>
+                     </qlist>
+                    </handles>
+                   </handles>
+                  </relations>
                  </MObject>
                 </base-MObject>
                 <variety-editable>false</variety-editable>
@@ -9734,6 +9751,28 @@ apporter</text>
                 </base-MObject>
                 <variety-editable>false</variety-editable>
                 <variety>endlifeline</variety>
+               </MItem>
+              </instance>
+             </target>
+            </handle>
+           </item>
+           <item>
+            <handle>
+             <uid>{6583c9f6-a3f6-4156-ba28-a3bea48c39b6}</uid>
+             <target>
+              <instance type="MItem">
+               <MItem>
+                <base-MObject>
+                 <MObject>
+                  <base-MElement>
+                   <MElement>
+                    <uid>{6583c9f6-a3f6-4156-ba28-a3bea48c39b6}</uid>
+                   </MElement>
+                  </base-MElement>
+                 </MObject>
+                </base-MObject>
+                <variety-editable>false</variety-editable>
+                <variety>activation</variety>
                </MItem>
               </instance>
              </target>
